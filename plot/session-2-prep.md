@@ -27,6 +27,10 @@
 - Copper/silver/gold offering vault (“Offer a copper for thy sins, a silver for the keep—swear the golden virtue and gain the entry you seek”).
 - Shield/spear magnet puzzle fallout: magnetized shield can lock a heavy bar; lightning spear shocks if mishandled. Confirm if further traps remain.
 
+## Library & vault leads (not yet explored/looted)
+- **Library**: Libram of Lox Lontoric (loose-earth control spell; crumbles after use), Book of Rains / stonesinging (reinforce Hvitr seals), Hvitric scroll of featherfall.
+- **Vaults**: Eye of Einarth (see through 1 solid object on contact), Jafnir — Hammer of Thunder (returns when called; cracks stone; +1 damage, forceful), Glass of Rain (patience/clouds boon; fire immunity on downpour when broken), Black Gloves (fire-impervious hands), Spakri — Cloak of Wind (ride the wind), coin/gem hoard.
+
 ## Open questions to resolve in play
 - Who are the lantern-bearers serving?
 - Where is the Staff of Cinders, and does it hold amber?
