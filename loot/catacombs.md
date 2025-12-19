@@ -1,18 +1,20 @@
 # Catacombs Loot & Boons
 
-- **Lightning Spear (Hvitr’s Boon)**  
-  - Conducts lightning; can channel a lightning strike when invoked (Antha-only trigger). Possible multifunction staff with a diamond tip (uncertain).  
-  - Electrical discharge if handled improperly (was zapping when pried).
+- **Atgir — Spear of St. Sigrid (Atgir and Skoldir set)**  
+  - Reach, thrown, near, +1 damage, 1 weight. Ash haft, steel point, silver lightning inlay. Light for its size.  
+  - If you are not devoted to St. Sigrid and pick it up, you take 1d6 lightning (drop it).  
+  - If you wield both Atgir and Skoldir: any foe that deals you melee damage is forcefully repelled.
 
-- **Magnetized Shield**  
-  - Electromagnetic pull; can trap/hold metal objects; useful for climbing or disarming. Was stuck to metal in the vault puzzle.
-  - Can hold a heavy rectangular metal bar with such strength that STR-1 users can’t pry it off; a STR+2 fighter can.
+- **Skoldir — Shield of St. Sigrid (Atgir and Skoldir set)**  
+  - +1 armor, 2 weight. Large rectangular ash shield banded in steel with four silver lightning bolts from a central boss.  
+  - If not devoted to St. Sigrid and you pick it up, you take 1d6 lightning (drop it).  
+  - Skoldir’s magnetism can clamp a heavy rectangular metal bar so firmly STR-1 users can’t pry it off; STR+2 fighter can.
 
 - **Boon of St. Igritt**  
-  - St. Igritt will petition Hvitr to send a lightning strike on the party’s behalf. Hvitr is angered by the tomb desecrations (Bob was the main desecrator), so the strike could be aimed at a party member if displeased; resolve at use time.
+  - St. Igritt will petition Hvitr to send a lightning strike on the party’s behalf. Hvitr is angered by the tomb desecrations (Bob led), so the strike could be aimed at a party member if displeased; resolve at use time.
 
 - **Amber Crystals (spent)**  
-  - Oxygenating ignition crystals: set fire to anything flammable they touch; turn sulfur-laced solidified lava back into molten lava; do not ignite normal stone; likely harmless on non-magical metal (magical metal unknown). Party currently has none (Forobor expended his; disciple’s cache lost/unknown).
+  - Oxygenating ignition crystals: ignite anything flammable; turn sulfur-laced solidified lava back to molten; do not ignite normal stone; ordinary metal seems unaffected (magical metal unknown). Party has none left (Forobor spent his; disciple’s cache lost/unknown).
 
 ## Vault / Puzzle Notes
-- Puzzle combined righteousness + distance/safety; shield and spear were magnetized/zapping when grabbed. Solution likely to use rope/insulation/“worthy use” answer to avoid destruction.
+- Atgir & Skoldir puzzle combined righteousness plus distance/insulation; grabbing triggered shocks and magnetism. Likely solvable with rope/insulation/declaring a worthy purpose to avoid destruction.
