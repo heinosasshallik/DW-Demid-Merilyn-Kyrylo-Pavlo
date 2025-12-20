@@ -57,3 +57,6 @@
 - What is the St. Igritt–Antha family connection?
 - What happens to Paul (Bob’s missing relative)?
 - Can the party stop Skul before he breaches the seal?
+
+## TODO
+- Nail down player-facing item statlines: Skoldir armor bonus (+1 or +2?), Atgir tags (reach/near/thrown, damage mod?), lightning triggers/downsides for non-devotees.
