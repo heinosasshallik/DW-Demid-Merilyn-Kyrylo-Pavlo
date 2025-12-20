@@ -33,10 +33,13 @@
   - *Book of Rains / Stonesinging*: takes ~3 minutes to sing; can make or reinforce a Hvitr seal (bardic/ritual flavor).  
   - *Hvitric scroll of featherfall*: one-use feather fall.
 - **Vaults (items & effects)**  
-  - *Eye of Einarth*: see through one solid object when touching it.  
-  - *Jafnir — Hammer of Thunder*: close, thrown, forceful, two-handed, +1 damage, 4 weight. Returns to hand when called; cracks stone with thunderous blow.  
-  - *Black Gloves*: worn, 0 weight; hands become impervious to fire.  
-  - Coin/gem hoard in vault; ornate door with offering slot (copper/silver/gold text).
+- *Eye of Einarth*: see through one solid object when touching it.  
+- *Jafnir — Hammer of Thunder*: close, thrown, forceful, two-handed, +1 damage, 4 weight. Returns to hand when called; cracks stone with thunderous blow.  
+- *Black Gloves*: worn, 0 weight; hands become impervious to fire.  
+- Coin/gem hoard in vault; ornate door with offering slot (copper/silver/gold text).
+
+## Future locale seed (tropics)
+- Shot’i’s nightmares flag “tropical forests” as ominous; seed a tropical island/archipelago as a later location (possible second arc): breaking Hvitr-like seals in a jungle volcano, or a cursed rainforest shrine that resonates with the Staff of Cinders lore.
 
 ## Open questions to resolve in play
 - Who are the lantern-bearers serving?
