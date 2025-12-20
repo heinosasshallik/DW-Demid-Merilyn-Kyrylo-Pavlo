@@ -1,7 +1,7 @@
 # Catacombs Loot & Boons
 
 - **Atgir — Spear of St. Sigrid (Atgir and Skoldir set)**  
-  - Reach, thrown, near, (damage: base spear, no bonus), 1 weight. Ash haft, steel point, silver lightning inlay. Light for its size.  
+  - Reach, thrown, near; damage: base spear (no bonus); 2 weight (full metal, very sharp but heavy).  
   - If you are not devoted to St. Sigrid and pick it up, you take 1d6 lightning (drop it).  
   - If you wield both Atgir and Skoldir: any foe that deals you melee damage is forcefully repelled.
 
