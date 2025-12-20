@@ -47,10 +47,12 @@
 - Bob: fate of his missing relative Paul (kidnapped lead/stake).
 
 ## Grim Portents (current adventure)
-- Hvitr’s wrath escalates from tomb desecration.
-- Escaped disciple reaches Skul with intel/resources.
-- Amber crystal stockpiles fall into enemy hands.
-- Lantern-bearers reinforce or sound alarm deeper in the catacombs.
+- Skul sacrifices captive villagers and reanimates them as Servants of the Cinder Queen (ongoing). The first sacrifice already happened; a scream echoed through the catacombs.
+- Skul gains access to the Catacomb Library.
+- Skul locates the Book of Rains.
+- Skul reaches the Sealed Caldera.
+- Skul reverses the Ritual of Stone-sealing, breaking the planar seal.
+- Gildarthe and her Flaming Host are unleashed.
 
 ## Stakes
 - Will Hvitr strike the party (or an enemy) when St. Igritt petitions a lightning bolt?
