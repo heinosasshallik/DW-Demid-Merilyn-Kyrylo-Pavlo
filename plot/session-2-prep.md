@@ -28,8 +28,18 @@
 - Shield/spear magnet puzzle fallout: magnetized shield can lock a heavy bar; lightning spear shocks if mishandled. Confirm if further traps remain.
 
 ## Library & vault leads (not yet explored/looted)
-- **Library**: Libram of Lox Lontoric (loose-earth control spell; crumbles after use), Book of Rains / stonesinging (reinforce Hvitr seals), Hvitric scroll of featherfall.
-- **Vaults**: Eye of Einarth (see through 1 solid object on contact), Jafnir — Hammer of Thunder (returns when called; cracks stone; +1 damage, forceful), Glass of Rain (patience/clouds boon; fire immunity on downpour when broken), Black Gloves (fire-impervious hands), Spakri — Cloak of Wind (ride the wind), coin/gem hoard.
+- **Library**  
+  - *Libram of Lox Lontoric*: gives loose-earth control spell (like Mold Earth); learnable by Druid or Wizard; book crumbles after use.  
+  - *Book of Rains / Stonesinging*: takes ~3 minutes to sing; can make or reinforce a Hvitr seal (bardic/ritual flavor).  
+  - *Hvitric scroll of featherfall*: one-use feather fall.
+- **Vaults (items & effects)**  
+  - *Eye of Einarth*: see through one solid object when touching it.  
+  - *Jafnir — Hammer of Thunder*: close, thrown, forceful, two-handed, +1 damage, 4 weight. Returns to hand when called; cracks stone with thunderous blow.  
+  - *Glass of Rain*: 1 weight; invert to drip—clouds gather, Lawful creatures nearby gain +2 armor while not attacking; when water runs out, they take +2 forward to next attack. If destroyed, sudden downpour grants fire immunity until next cloudless day.  
+  - *Black Gloves*: worn, 0 weight; hands become impervious to fire of all kinds.  
+  - *Spakri — Cloak of Wind*: worn, 1 weight; step skyward and roll +WIS to ride the wind up to a day’s journey (choices on 10+/7-9 to avoid exhaustion/attention/overshoot).  
+  - *Staff of Cinders*: close, near, 1 weight; burning ember tip deals 1 damage to holder every few moments. Can call forth smoke to obscure; can send a tongue of flame (roll +INT: on 10+ deal damage+INT ignoring armor; on 7-9 choose one: something else catches fire, unintended target hit, staff turns to ash).  
+  - Coin/gem hoard in vault; ornate door with offering slot (copper/silver/gold text).
 
 ## Open questions to resolve in play
 - Who are the lantern-bearers serving?
