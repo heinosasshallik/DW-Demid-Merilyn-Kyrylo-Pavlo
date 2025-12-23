@@ -62,3 +62,4 @@
 
 ## TODO
 - Nail down player-facing item statlines: Skoldir armor bonus (+1 or +2?), Atgir tags (reach/near/thrown, damage mod?), lightning triggers/downsides for non-devotees.
+- Allow them to respec their stats
