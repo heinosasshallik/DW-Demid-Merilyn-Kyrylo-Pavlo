@@ -1,5 +1,8 @@
 # Forobor (Druid)
 
+
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/a3d460ea-4725-43bb-a264-b1f0f9dfbe80" />
+
 - Player: Demid
 - Race/Look: Dwarf; muscular, short; hooded cloak; huge staff; dark grey skin and red eyes from the mountains; huge beard; tooth jewelry. Horns are his tell.
 - Drive: Cultivation
